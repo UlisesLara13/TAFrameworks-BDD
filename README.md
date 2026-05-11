@@ -28,8 +28,6 @@ The framework supports multi-browser execution, logging, screenshot capturing, e
 
 ---
 
----
-
 # 📋 Test Scenarios
 
 ✅ Login functionality
