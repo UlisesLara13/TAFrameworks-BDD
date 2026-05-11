@@ -34,18 +34,18 @@ The framework supports multi-browser execution, logging, screenshot capturing, e
 
 ✅ Login functionality
 
-# Login with empty credentials
+Login with empty credentials
 * Open login page
 * Enter credentials
 * Clear fields
 * Validate error message
   
-# Login with username but no password
+Login with username but no password
 * Enter username
 * Leave password empty
 * Validate error message
   
-# Login with valid credentials
+Login with valid credentials
 * Login using multiple users with Scenario Outline
 * Validate successful navigation to homepage
   
